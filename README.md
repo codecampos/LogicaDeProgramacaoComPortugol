@@ -12,8 +12,9 @@ Portugol é uma pseudolinguagem em português, muito usada para ensinar os funda
 
 ```
 LogicaDeProgramacaoComPortugol/
-├── Faccat/      # Exercícios da apostila Faccat
-├── Manzano/     # Exercícios da apostila Manzano
+├── Faccat/            # Exercícios da apostila Faccat
+├── Manzano/           # Exercícios da apostila Manzano
+├── ExerciciosExtras/  # Exercicios da sala de aula e/ou outros lugares
 └── README.md
 ```
 
@@ -21,6 +22,8 @@ LogicaDeProgramacaoComPortugol/
 |-------|----------|
 | `Faccat/` | Exercícios da apostila Faccat resolvidos em Portugol |
 | `Manzano/` | Exercícios da apostila Manzano resolvidos em Portugol |
+| `ExerciciosExtras` | Exercicios da sala de aula e/ou outros lugares |
+ 
 
 ## Tópicos abordados
 
