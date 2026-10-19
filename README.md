@@ -22,7 +22,7 @@ LogicaDeProgramacaoComPortugol/
 |-------|----------|
 | `Faccat/` | Exercícios da apostila Faccat resolvidos em Portugol |
 | `Manzano/` | Exercícios da apostila Manzano resolvidos em Portugol |
-| `ExerciciosExtras` | Exercicios da sala de aula e/ou outros lugares |
+| `ExerciciosExtras/` | Exercicios da sala de aula e/ou outros lugares |
  
 
 ## Tópicos abordados
