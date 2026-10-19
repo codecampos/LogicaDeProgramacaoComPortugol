@@ -2,6 +2,8 @@
 
 Repositório com os exercícios das apostilas **Faccat** e **Manzano**, resolvidos em **Portugol**, para estudo e prática de lógica de programação.
 
+<img width="357" height="125" alt="Image" src="https://github.com/user-attachments/assets/d22abbc6-d1d6-4dc1-8ad2-3a3471068f3d" />
+
 ## Sobre o projeto
 
 Portugol é uma pseudolinguagem em português, muito usada para ensinar os fundamentos da programação sem a barreira da sintaxe de linguagens como C, Java ou Python. Aqui estão as minhas soluções para os exercícios das apostilas, organizadas por material de origem.
